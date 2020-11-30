@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assignment 5 SET B Q3</title>
+</head>
+<body>
+<h2 style="padding: 0px 0px 0px 215px;">Company wise Profit</h2>
+<table border="1" width=50% cellpadding=10 style="border-collapse: collapse;">
+<tr align="center">
+<th>Company Name</th>
+<th>Year</th>
+<th>Profit (In Crore)</th>
+</tr>
+<tr align="center">
+<td rowspan="3">Infosys</td>
+<td>2018</td>
+<td>6520</td>
+</tr>
+<tr align="center">
+<td>2019</td>
+<td>7250</td>
+</tr>
+<tr align="center">
+<td>2020</td>
+<td>7962</td>
+</tr>
+<tr align="center">
+<td rowspan="3">Wipro</td>
+<td>2018</td>
+<td>1803</td>
+</tr>
+<tr align="center">
+<td>2019</td>
+<td>1953</td>
+</tr>
+<tr align="center">
+<td>2020</td>
+<td>2529</td>
+</tr>
+<tr align="center">
+<td rowspan="3">Cognizant</td>
+<td>2018</td>
+<td>5420</td>
+</tr>
+<tr align="center">
+<td>2019</td>
+<td>5863</td>
+</tr>
+<tr align="center">
+<td>2020</td>
+<td>6293</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Assingment 5 SET A Q1
+        </title>
+    </head>
+    <body bgcolor="black">
+        <ol>
+            <font size=6 color='red'><li>Red</li></font><br>
+            <font size=6 color='orange'><li>Orange</li></font><br>
+            <font size=6 color='yellow'><li>Yellow</li></font><br>
+            <font size=6 color='green'><li>Green</li></font><br>
+            <font size=6 color='blue'><li>Blue</li></font><br>
+            <font size=6 color='white'><li>White</li></font><br>
+            <font size=6 color='violet'><li>Violet</li></font><br>
+        </ol>
+    </body>   
+</html>
+
+

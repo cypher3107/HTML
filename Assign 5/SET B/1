@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assignment 5 SET B Q1</title>
+</head>
+<body>
+<h1 align=center style="font-family: 'Times New Roman', Times, serif;">MES's ABASAHEB GARAWARE COLLOGE, PUNE</h1>
+<h2 align=center style="font-family: 'Times New Roman', Times, serif;">DEPARTMENT OF COMPUTER SCIENCE </h2> 
+<h2 align=center style="font-family: 'Times New Roman', Times, serif;"><u>ONLINE TIMETABLE FOR S. Y. BCA (Science) </u></h2><br>
+<table align="center" cellpadding = 10 border="1" style="border-collapse: collapse;" >
+<tr align="center" >
+<td></td>
+<td><b>Monday</b></td>
+<td><b>Tueday</b></td>
+<td><b>Wednesday</b></td>
+<td><b>Thusday</b></td>
+<td><b>Friday</b></td>
+<td><b>Saturday</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align="center">
+<td>11.00 am -<br> 11.50 pm</td>
+<td>DS</td>
+<td></td>
+<td>DS</td>
+<td>Web Tech.</td>
+<td>DS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align="center">
+<td>12.10 pm -<br> 1.00 pm</td>
+<td>CN</td>
+<td>DBMS II</td>
+<td>CN</td>
+<td>DBMS II</td>
+<td>CN</td>
+<td>DBMS II</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align="center">
+<td>1.20 pm -<br> 2.10 pm</td>
+<td>DBMS II</td>
+<td>CN</td>
+<td></td>
+<td>DS</td>
+<td>Web. Tech</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align="center">
+<td>2.30 pm -<br>3.20 pm</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Lang. Comm.</td>
+<td>Lang. Comm.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr align="center">
+<td>3.20 pm- <br>4.10 pm</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Lang. Comm.</td>
+</tr>
+</table>
+</body>
+</html>
+

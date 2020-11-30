@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assignment 5 SET A Q3</title>
+</head>
+<body>
+<ol>
+<li>Kia Motors</li>
+<ol>
+<li><a href="kia.html" target="_blank">Kia sonnet</a></li>
+<li><a href="kia1.html" target="_blank">Kia Forte</a></li>
+<li><a href="kia3.html" target="_blank">Kia Rio</a></li>
+</ol>
+<li>Volvo Motors</li>
+<ol>
+<li><a href="volvo.html" target="_blank">Volvo XC40</a></li>
+<li><a href="volvo1.html" target="_blank">Volvo XC30</a></li>
+<li><a href="volvo3.html" target="_blank">Volvo XC50</a></li>
+</ol>
+<li>BMW</li>
+<ol>
+<li><a href="bmw.html" target="_blank">BMW X1</a></li>
+<li><a href="bmw1.html" target="_blank">BMW X5</a></li>
+<li><a href="bmw2.html" target="_blank">BMW X7</a></li>
+<li><a href="bmw3.html"target="_blank">BMW X3</a></li>
+</ol> 
+</body>
+</html>
+

@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Assignment 5 SET B Q2</title>
+</head>
+<body>
+<h2>HTML Colors</h2>
+<table border="1" width=50% cellpadding=10>
+<tr>
+<th>Color</th>
+<th align="left">Name</th>
+<th align="left">hexadecimal</th>
+<th align="left">RGB value</th>
+</tr>
+<tr>
+<td bgcolor="salmon"></td>
+<td>Salmon</td>
+<td align="right">FA8072</td>
+<td>250-128-114</td>
+</tr>
+<tr>
+<td bgcolor="gold"></td>
+<td>Gold</td>
+<td align="right">FFD700</td>
+<td>250-215-0</td>
+</tr>
+</table>
+</body>
+</html>
+
+
